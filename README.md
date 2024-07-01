@@ -18,7 +18,7 @@ This is a simple QR code generator website created using HTML, CSS, and JavaScri
 
 ## Live Demo:
 
-[Check-here](https://an-qrgenerator.netlify.app/)
+[Check-here](http://numanmirza.freewebhostmost.com/)
 
 ## How to Use:
 
@@ -31,5 +31,6 @@ This is a simple QR code generator website created using HTML, CSS, and JavaScri
 
 ## Screenshot:
 
-![image](https://github.com/ayushnighoskar/QR-Code-Generator/assets/48729682/1bfba7ac-6ce3-4364-839b-07eb2595feef)
+![image](![image](https://github.com/mnumanmirza/QR-Code-Generator-main/assets/158829045/93ea5773-5869-411d-b1a3-7c724575c834)
+)
 
